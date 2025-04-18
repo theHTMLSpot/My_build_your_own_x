@@ -1,5 +1,6 @@
 {
-  "files.associations": {
-    "stdio.h": "c"
-  }
+    "files.associations": {
+        "utils": "cpp",
+        "shell.h": "c"
+    }
 }
